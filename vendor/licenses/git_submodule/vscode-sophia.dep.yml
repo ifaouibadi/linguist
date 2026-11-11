@@ -1,6 +1,6 @@
 ---
 name: vscode-sophia
-version: bf21a6360dee8b3a39856fb04270cb9590e33862
+version: aa30df0f115ea751ab0bfff8f219cdcdd41bccb1
 type: git_submodule
 homepage: https://github.com/mradkov/vscode-sophia.git
 license: mit
